@@ -1,0 +1,199 @@
+@media (max-width: 570px) {
+    .hd {
+        display: none;
+    }
+    .paragraph{
+        font-size: 9px;
+    }
+    .heading {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 0px;
+    }
+    .navimg {
+        max-width: 40px;
+    }
+    .mainh{
+        font-size: 36px;
+    }
+    .subhead {
+        font-size: 16px;
+    }
+}
+img {
+    max-width: 100%;
+}
+.y {
+    color: rgb(252, 217, 15);
+}
+h1 {
+    color: rgb(11, 59, 149);
+    font-size: 60px;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Anton', sans-serif;
+}
+h3 {
+    margin-bottom: 30px;
+    margin-top: 10px;
+    text-align: center;
+     font-family: 'Nunito Sans', sans-serif;
+    font-weight: 550;
+    color: rgba(11, 59, 149, 0.568);
+}
+.line {
+    margin: 0px;
+    border: 2px solid rgba(31, 24, 244, 0.553);
+}
+.navcolor {
+    color: rgb(11, 59, 149);
+    font-weight: 600;
+}
+.navcolor2 {
+    color: rgb(255, 201, 8);
+    font-weight: 600;
+}
+.first-part {
+    background-color: #ffe959;
+}
+.district {
+    padding-left: 8px;
+}
+p {
+ font-family: 'Nunito Sans', sans-serif;
+ color: #2882c5;
+ font-size: 22px;
+ font-weight: 400;
+}
+h2 {
+    font-family: 'Anton', sans-serif;
+    color: #f5821b;
+    margin-top: 40px;
+}
+.second-part{ 
+background-color:#6DBAE1;
+}
+h4{
+    margin-top: 40px;
+    font-family: 'Anton', sans-serif;
+    color: #BA0441;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.art {
+    margin-top: 30px;
+}
+.events {
+    color: #1D0E67;
+    font-weight: 400;
+}
+.concerts {
+    padding-left: 30px;
+}
+.more {
+    color: #BA0441;
+    font-weight: 800;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.abt {
+    color: #BA0441;
+    text-decoration: none;
+    border: 2px solid #1D0E67;
+    background-color: #1D0E67;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.abt:hover {
+    color: #1D0E67;
+    background-color: #BA0441;
+}
+.third-part {
+    background-color: #617724;
+}
+h5 {
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    padding: 60px 0px 15px 0px;
+    font-size: 40px;
+    color: #182610;
+}
+.food {
+   color: #242320; 
+   font-weight: 600;
+}
+.restaurant1 {
+    padding-left: 100px;
+}
+.restaurant2 {
+    padding-right: 100px;
+}
+.recomendation {
+    margin-left: 17px;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #8C113D;
+    text-decoration: underline;
+}
+li {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+}
+.dish {
+    color: #242320;
+    text-decoration: none;
+}
+.dish:hover {
+    color: #8C113D;
+}
+.menu {
+    color: #8C113D;
+    font-weight: 900;
+}
+h6 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 36px;
+    font-family: 'Anton', sans-serif;
+    color: rgb(11, 59, 149);
+    margin-bottom: 20px;
+}
+label {
+    color: rgb(11, 59, 149);
+    font-weight: 700;
+}
+input {
+    width: 100%;
+    margin-bottom: 20px;
+}
+textarea {
+    width: 100%;
+    margin-bottom: 20px;
+}
+button {
+    color: rgb(255, 201, 8);
+    font-weight: 700;
+    padding: 10px 30px;
+    background-color: rgb(11, 59, 149);
+    border: 1px solid rgb(11, 59, 149);
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.name {
+    color: rgb(11, 59, 149);
+    font-weight: 600;
+    text-decoration: none;
+}
+.contact-page {
+    max-width: 600px;
+}
+.nametwo {
+    color: rgb(255, 201, 8);;
+} 
